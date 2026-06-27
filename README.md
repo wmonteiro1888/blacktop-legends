@@ -24,6 +24,7 @@ Blacktop Legends is an arcade-realistic streetball game bringing the energy of i
 - Animation blueprint implementation
 - Player controller input setup
 - Gameplay mechanics (shooting, passing, ball physics)
+- Desktop session host/join (LAN now; online-ready) — see [`Docs/Multiplayer_Sessions.md`](Docs/Multiplayer_Sessions.md)
 
 ### 📋 Planned
 - Online multiplayer matchmaking
